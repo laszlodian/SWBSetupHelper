@@ -1,0 +1,9 @@
+C:\Users\dian\source\repos\SWB_OptionPackageInstaller\bin\Debug\SWB_OptionPackageInstaller.exe.config
+C:\Users\dian\source\repos\SWB_OptionPackageInstaller\bin\Debug\SWB_OptionPackageInstaller.exe
+C:\Users\dian\source\repos\SWB_OptionPackageInstaller\bin\Debug\SWB_OptionPackageInstaller.pdb
+C:\Users\dian\source\repos\SWB_OptionPackageInstaller\obj\Debug\SWB_OptionPackageInstaller.csprojAssemblyReference.cache
+C:\Users\dian\source\repos\SWB_OptionPackageInstaller\obj\Debug\SWB_OptionPackageInstaller.Form1.resources
+C:\Users\dian\source\repos\SWB_OptionPackageInstaller\obj\Debug\SWB_OptionPackageInstaller.Properties.Resources.resources
+C:\Users\dian\source\repos\SWB_OptionPackageInstaller\obj\Debug\SWB_OptionPackageInstaller.csproj.GenerateResource.cache
+C:\Users\dian\source\repos\SWB_OptionPackageInstaller\obj\Debug\SWB_OptionPackageInstaller.exe
+C:\Users\dian\source\repos\SWB_OptionPackageInstaller\obj\Debug\SWB_OptionPackageInstaller.pdb
